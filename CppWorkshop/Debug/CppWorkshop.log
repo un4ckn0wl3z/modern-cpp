@@ -1,0 +1,3 @@
+﻿2.Keywords.obj : error LNK2005: _main already defined in 1.HelloWorld.obj
+3.macros.obj : error LNK2005: _main already defined in 1.HelloWorld.obj
+C:\Users\anuwat\source\repos\CppWorkshop\Debug\CppWorkshop.exe : fatal error LNK1169: one or more multiply defined symbols found
